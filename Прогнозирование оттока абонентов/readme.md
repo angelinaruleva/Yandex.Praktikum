@@ -7,14 +7,12 @@
 Выбрана оптимальная модель и подобраны гиперпараметры.
 Построена модель для предсказания оттока клиентов.
 # Используемые библиотеки:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Scikit-Learn
-RandomForestClassifier
-KNeighborsClassifier
-SVC
-CatBoostClassifier
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- RandomForestClassifier
+- CatBoostClassifier
 # Статус проекта
 Завершен.
